@@ -1,0 +1,27 @@
+
+Car02.png
+size: 505,545
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+Body
+  rotate: false
+  xy: 2, 218
+  size: 413, 325
+  orig: 413, 325
+  offset: 0, 0
+  index: -1
+Shade
+  rotate: false
+  xy: 2, 2
+  size: 437, 214
+  orig: 438, 214
+  offset: 0, 0
+  index: -1
+Tires
+  rotate: false
+  xy: 417, 457
+  size: 86, 86
+  orig: 86, 86
+  offset: 0, 0
+  index: -1

@@ -1,0 +1,27 @@
+
+Car03.png
+size: 507,546
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+Body
+  rotate: false
+  xy: 2, 218
+  size: 415, 326
+  orig: 416, 326
+  offset: 0, 0
+  index: -1
+Shade
+  rotate: false
+  xy: 2, 2
+  size: 437, 214
+  orig: 438, 214
+  offset: 0, 0
+  index: -1
+Tires
+  rotate: false
+  xy: 419, 458
+  size: 86, 86
+  orig: 86, 86
+  offset: 0, 0
+  index: -1
